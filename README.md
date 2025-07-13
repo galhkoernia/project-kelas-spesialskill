@@ -62,7 +62,7 @@ project-kelas-python/
 
 ---
 
-✍️ Dibuat oleh
+Dibuat oleh
 Nama : Galuh Kurnia Pratama
 Email: galuhkoernia979@gmail.com
 Kelas: Intensive Camp Pemrograman Python
